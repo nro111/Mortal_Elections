@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=618084244693
+proj.classDir=Assets
+proj.ConstantsClassName=Play
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e618084244693%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.mortalelections%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_election_season%22%3eCgkI1bnExf4REAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_entered_the_primary%22%3eCgkI1bnExf4REAIQCg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_and_now_for_the_main_event%22%3eCgkI1bnExf4REAIQCw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_its_a_party%22%3eCgkI1bnExf4REAIQDA%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_leading_candidates%22%3eCgkI1bnExf4REAIQBg%3c%2fstring%3e%0a%3c%2fresources%3e%0a%0a
+and.ClientId=618084244693-8rb2j1ndmad7obhe4gd0cni0uqm0haen.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.mortalelections

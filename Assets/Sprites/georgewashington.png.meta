@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: f008a9c81c44c75498474ed26acf57e1
+timeCreated: 1464735885
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: georgewashington_0
+    21300002: georgewashington_1
+    21300004: georgewashington_2
+    21300006: georgewashington_3
+    21300008: georgewashington_4
+    21300010: georgewashington_5
+    21300012: georgewashington_6
+    21300014: georgewashington_7
+    21300016: georgewashington_8
+    21300018: georgewashington_9
+    21300020: georgewashington_10
+    21300022: georgewashington_11
+    21300024: georgewashington_12
+    21300026: georgewashington_13
+    21300028: georgewashington_14
+    21300030: georgewashington_15
+    21300032: georgewashington_16
+    21300034: georgewashington_17
+    21300036: georgewashington_18
+    21300038: georgewashington_19
+    21300040: georgewashington_20
+    21300042: georgewashington_21
+    21300044: georgewashington_22
+    21300046: georgewashington_23
+    21300048: georgewashington_24
+    21300050: georgewashington_25
+    21300052: georgewashington_26
+    21300054: georgewashington_27
+    21300056: georgewashington_28
+    21300058: georgewashington_29
+    21300060: georgewashington_30
+    21300062: georgewashington_31
+    21300064: georgewashington_32
+    21300066: georgewashington_33
+    21300068: georgewashington_34
+    21300070: georgewashington_35
+    21300072: georgewashington_36
+    21300074: georgewashington_37
+    21300076: georgewashington_38
+    21300078: georgewashington_39
+    21300080: georgewashington_40
+    21300082: georgewashington_41
+    21300084: georgewashington_42
+    21300086: georgewashington_43
+    21300088: georgewashington_44
+    21300090: georgewashington_45
+    21300092: georgewashington_46
+    21300094: georgewashington_47
+    21300096: georgewashington_48
+    21300098: georgewashington_49
+    21300100: georgewashington_50
+    21300102: georgewashington_51
+    21300104: georgewashington_52
+    21300106: georgewashington_53
+    21300108: georgewashington_54
+    21300110: georgewashington_55
+    21300112: georgewashington_56
+    21300114: georgewashington_57
+    21300116: georgewashington_58
+    21300118: georgewashington_59
+    21300120: georgewashington_60
+    21300122: georgewashington_61
+    21300124: georgewashington_62
+    21300126: georgewashington_63
+    21300128: georgewashington_64
+    21300130: georgewashington_65
+    21300132: georgewashington_66
+    21300134: georgewashington_67
+    21300136: georgewashington_68
+    21300138: georgewashington_69
+    21300140: georgewashington_70
+    21300142: georgewashington_71
+    21300144: georgewashington_72
+    21300146: georgewashington_73
+    21300148: georgewashington_74
+    21300150: georgewashington_75
+    21300152: georgewashington_76
+    21300154: georgewashington_77
+    21300156: georgewashington_78
+    21300158: georgewashington_79
+    21300160: georgewashington_80
+    21300162: georgewashington_81
+    21300164: georgewashington_82
+    21300166: georgewashington_83
+    21300168: georgewashington_84
+    21300170: georgewashington_85
+    21300172: georgewashington_86
+    21300174: georgewashington_87
+    21300176: georgewashington_88
+    21300178: georgewashington_89
+    21300180: georgewashington_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: georgewashington_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2474
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.809923, y: 57.374756}
+        - {x: -31.809923, y: 43.374756}
+        - {x: -31.809923, y: -55.625244}
+        - {x: 33.19008, y: -55.625244}
+        - {x: 33.19008, y: 43.374756}
+        - {x: 8.190077, y: 57.374756}
+    - name: georgewashington_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2472
+        width: 79
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.895416, y: 58.3114}
+        - {x: -30.895416, y: 52.3114}
+        - {x: -30.895416, y: -57.6886}
+        - {x: 32.104584, y: -57.6886}
+        - {x: 32.104584, y: 40.3114}
+        - {x: -0.89541626, y: 58.3114}
+    - name: georgewashington_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2471
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.17099, y: 59.029785}
+        - {x: -30.17099, y: 58.029785}
+        - {x: -30.17099, y: -57.970215}
+        - {x: 31.82901, y: -57.970215}
+        - {x: 31.82901, y: 42.029785}
+        - {x: 7.82901, y: 59.029785}
+    - name: georgewashington_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2470
+        width: 76
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.271759, y: 49.248047}
+        - {x: 9.271759, y: 59.248047}
+        - {x: -28.728241, y: 59.248047}
+        - {x: -29.728241, y: 57.248047}
+        - {x: -29.728241, y: -57.751953}
+        - {x: -12.728241, y: -57.751953}
+        - {x: -7.728241, y: -26.751953}
+        - {x: 10.271759, y: -57.751953}
+        - {x: 30.271759, y: -57.751953}
+    - name: georgewashington_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2481
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.4045715, y: 53.846558}
+        - {x: 0.40457153, y: 54.846558}
+        - {x: -23.595428, y: 54.846558}
+        - {x: -36.59543, y: 44.846558}
+        - {x: -36.59543, y: -54.153442}
+        - {x: 37.40457, y: -54.153442}
+        - {x: 37.40457, y: 34.846558}
+        - {x: 29.404572, y: 37.846558}
+    - name: georgewashington_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2477
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.727478, y: 56.21985}
+        - {x: -23.272522, y: 56.21985}
+        - {x: -26.272522, y: 55.21985}
+        - {x: -40.272522, y: -23.780151}
+        - {x: -40.272522, y: -55.78015}
+        - {x: 35.727478, y: -55.78015}
+        - {x: 40.727478, y: -0.78015137}
+        - {x: 40.727478, y: 35.21985}
+        - {x: 37.727478, y: 37.21985}
+    - name: georgewashington_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2357
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.373283, y: 43.918335}
+        - {x: -21.373283, y: 42.918335}
+        - {x: -32.373283, y: 15.918335}
+        - {x: -35.373283, y: -0.08166504}
+        - {x: -35.373283, y: -43.081665}
+        - {x: 35.626717, y: -43.081665}
+        - {x: 35.626717, y: 32.918335}
+        - {x: 7.6267166, y: 43.918335}
+    - name: georgewashington_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2308
+        width: 103
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.794655, y: 45.61609}
+        - {x: 2.7946548, y: 60.61609}
+        - {x: -31.205345, y: 60.61609}
+        - {x: -40.205345, y: 49.61609}
+        - {x: -40.205345, y: -60.38391}
+        - {x: 21.794655, y: -60.38391}
+        - {x: 22.794655, y: -53.38391}
+        - {x: 40.794655, y: 11.616089}
+    - name: georgewashington_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2344
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.748856, y: -27.24353}
+        - {x: -4.7488556, y: -46.24353}
+        - {x: 0.2511444, y: -46.24353}
+        - {x: 42.251144, y: -19.24353}
+        - {x: 42.251144, y: 26.75647}
+        - {x: 1.2511444, y: 46.75647}
+        - {x: -25.748856, y: 46.75647}
+        - {x: -40.748856, y: 26.75647}
+        - {x: -40.748856, y: -12.24353}
+        - {x: -25.748856, y: -46.24353}
+        - {x: -10.748856, y: -46.24353}
+        - {x: -7.7488556, y: -42.24353}
+        - {x: -8.748856, y: -28.24353}
+        - {x: -8.748856, y: -10.24353}
+    - name: georgewashington_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2328
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.687012, y: 57.749634}
+        - {x: -34.68701, y: 54.749634}
+        - {x: -34.68701, y: -56.250366}
+        - {x: 20.312988, y: -56.250366}
+        - {x: 35.31299, y: -3.2503662}
+        - {x: 35.31299, y: 43.749634}
+        - {x: 15.312988, y: 57.749634}
+    - name: georgewashington_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2326
+        width: 85
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.762604, y: -53.31372}
+        - {x: 33.762604, y: 45.68628}
+        - {x: 3.7626038, y: 57.68628}
+        - {x: -33.237396, y: 57.68628}
+        - {x: -33.237396, y: -57.31372}
+        - {x: -13.237396, y: -57.31372}
+        - {x: -12.237396, y: -56.31372}
+        - {x: -11.237396, y: -45.31372}
+        - {x: 15.762604, y: -56.31372}
+    - name: georgewashington_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2053
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -47.21216}
+        - {x: -15.5, y: -48.21216}
+        - {x: -0.5, y: -48.21216}
+        - {x: -0.5, y: -47.21216}
+        - {x: -3.5, y: -44.21216}
+        - {x: -12.5, y: -44.21216}
+      - - {x: -11.5, y: 49.78784}
+        - {x: -41.5, y: 49.78784}
+        - {x: -44.5, y: 47.78784}
+        - {x: -44.5, y: -4.212158}
+        - {x: -21.5, y: -48.21216}
+        - {x: 27.5, y: -48.21216}
+        - {x: 45.5, y: -23.212158}
+        - {x: 45.5, y: 3.7878418}
+        - {x: 5.5, y: 38.78784}
+    - name: georgewashington_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2181
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.8229, y: 28.342773}
+        - {x: 1.8228989, y: 46.342773}
+        - {x: -34.1771, y: 46.342773}
+        - {x: -40.1771, y: 31.342773}
+        - {x: -40.1771, y: -44.657227}
+        - {x: -22.177101, y: -44.657227}
+        - {x: -21.177101, y: -41.657227}
+        - {x: -8.177101, y: -44.657227}
+        - {x: 41.8229, y: -44.657227}
+    - name: georgewashington_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2181
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.81221, y: -32.657227}
+        - {x: -6.81221, y: -27.657227}
+        - {x: 11.18779, y: -51.657227}
+        - {x: 16.18779, y: -53.657227}
+        - {x: 33.18779, y: -53.657227}
+        - {x: 33.18779, y: 22.342773}
+        - {x: 32.18779, y: 55.342773}
+        - {x: -32.81221, y: 55.342773}
+        - {x: -32.81221, y: -53.657227}
+        - {x: -19.81221, y: -53.657227}
+        - {x: -17.81221, y: -51.657227}
+        - {x: -17.81221, y: -46.657227}
+        - {x: -11.81221, y: -36.657227}
+    - name: georgewashington_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2183
+        width: 88
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.33435, y: 55.406128}
+        - {x: -19.33435, y: 53.406128}
+        - {x: -24.33435, y: 30.406128}
+        - {x: -34.33435, y: -21.593872}
+        - {x: -34.33435, y: -54.593872}
+        - {x: 35.66565, y: -54.593872}
+        - {x: 35.66565, y: 49.406128}
+        - {x: 25.66565, y: 55.406128}
+    - name: georgewashington_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2198
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.488556, y: 49.131348}
+        - {x: -13.511444, y: 41.131348}
+        - {x: -19.511444, y: 25.131348}
+        - {x: -29.511444, y: -26.868652}
+        - {x: -29.511444, y: -45.868652}
+        - {x: -27.511444, y: -48.868652}
+        - {x: 30.488556, y: -48.868652}
+        - {x: 30.488556, y: 49.131348}
+    - name: georgewashington_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2200
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5053406, y: 47.194702}
+        - {x: -27.50534, y: 26.194702}
+        - {x: -31.50534, y: 5.194702}
+        - {x: -31.50534, y: -45.805298}
+        - {x: 32.49466, y: -45.805298}
+        - {x: 32.49466, y: 31.194702}
+        - {x: 22.49466, y: 47.194702}
+    - name: georgewashington_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2073
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.738167, y: 23.421387}
+        - {x: 39.738167, y: 22.421387}
+        - {x: 36.738167, y: 20.421387}
+        - {x: 21.738167, y: 39.421387}
+        - {x: 11.738167, y: 39.421387}
+        - {x: -25.261833, y: 18.421387}
+        - {x: -46.261833, y: 4.4213867}
+        - {x: -46.261833, y: -19.578613}
+        - {x: -38.261833, y: -38.578613}
+        - {x: 13.738167, y: -38.578613}
+        - {x: 46.738167, y: 2.4213867}
+        - {x: 46.738167, y: 20.421387}
+    - name: georgewashington_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2127
+        width: 156
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.988556, y: 8.63208}
+        - {x: -60.988556, y: -12.36792}
+        - {x: -58.988556, y: -16.36792}
+        - {x: 15.011444, y: -16.36792}
+        - {x: 56.011444, y: -12.36792}
+        - {x: 62.011444, y: -5.36792}
+        - {x: 62.011444, y: 17.63208}
+        - {x: -7.988556, y: 17.63208}
+        - {x: -46.988556, y: 14.63208}
+    - name: georgewashington_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2045
+        width: 87
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.115265, y: 11.034302}
+        - {x: 34.115265, y: 31.034302}
+        - {x: 9.115265, y: 59.0343}
+        - {x: -13.884735, y: 59.0343}
+        - {x: -16.884735, y: 58.0343}
+        - {x: -33.884735, y: 40.0343}
+        - {x: -33.884735, y: -57.9657}
+        - {x: -19.884735, y: -57.9657}
+        - {x: -18.884735, y: -55.9657}
+        - {x: 0.11526489, y: -57.9657}
+        - {x: 35.115265, y: -57.9657}
+    - name: georgewashington_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2045
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.248108, y: 57.0343}
+        - {x: -18.751892, y: 57.0343}
+        - {x: -28.751892, y: 51.0343}
+        - {x: -27.751892, y: 26.034302}
+        - {x: -22.751892, y: -8.965698}
+        - {x: -31.751892, y: -34.9657}
+        - {x: -31.751892, y: -55.9657}
+        - {x: 33.248108, y: -55.9657}
+        - {x: 33.248108, y: 22.034302}
+    - name: georgewashington_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1913
+        width: 125
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.126717, y: -55.64734}
+        - {x: 15.126717, y: -5.647339}
+        - {x: 38.126717, y: 15.352661}
+        - {x: 49.126717, y: 27.352661}
+        - {x: 49.126717, y: 43.35266}
+        - {x: 47.126717, y: 44.35266}
+        - {x: 7.1267166, y: 56.35266}
+        - {x: -31.873283, y: 56.35266}
+        - {x: -33.873283, y: 50.35266}
+        - {x: -48.873283, y: -20.647339}
+        - {x: -48.873283, y: -51.64734}
+        - {x: -46.873283, y: -55.64734}
+        - {x: -34.873283, y: -55.64734}
+        - {x: -32.873283, y: -53.64734}
+        - {x: -32.873283, y: -50.64734}
+        - {x: -6.8732834, y: -55.64734}
+      - - {x: -3.8732834, y: 56.35266}
+        - {x: -2.8732834, y: 53.35266}
+        - {x: 2.1267166, y: 51.35266}
+        - {x: 6.1267166, y: 51.35266}
+        - {x: 10.126717, y: 55.35266}
+        - {x: 10.126717, y: 56.35266}
+    - name: georgewashington_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1908
+        width: 86
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.561829, y: 58.444336}
+        - {x: -31.438171, y: 58.444336}
+        - {x: -33.43817, y: 57.444336}
+        - {x: -33.43817, y: -54.555664}
+        - {x: -23.438171, y: -57.555664}
+        - {x: 28.561829, y: -57.555664}
+        - {x: 34.56183, y: -9.555664}
+        - {x: 34.56183, y: 43.444336}
+        - {x: 26.561829, y: 52.444336}
+    - name: georgewashington_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1916
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.286255, y: 51.197754}
+        - {x: 46.286255, y: 58.197754}
+        - {x: -49.713745, y: 58.197754}
+        - {x: -49.713745, y: -9.802246}
+        - {x: -28.713745, y: -56.802246}
+        - {x: 1.2862549, y: -56.802246}
+        - {x: 3.286255, y: -17.802246}
+        - {x: 51.286255, y: 20.197754}
+    - name: georgewashington_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1902
+        width: 85
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.34198, y: 58.25415}
+        - {x: -30.34198, y: 58.25415}
+        - {x: -33.34198, y: 53.25415}
+        - {x: -33.34198, y: 19.25415}
+        - {x: -7.34198, y: -56.74585}
+        - {x: 21.65802, y: -56.74585}
+        - {x: 28.65802, y: -38.74585}
+        - {x: 28.65802, y: 38.25415}
+        - {x: 18.65802, y: 47.25415}
+      - - {x: 28.65802, y: -39.74585}
+        - {x: 29.65802, y: -49.74585}
+        - {x: 33.65802, y: -53.74585}
+        - {x: 34.65802, y: -53.74585}
+        - {x: 34.65802, y: -36.74585}
+        - {x: 31.65802, y: -36.74585}
+      - - {x: 4.65802, y: 58.25415}
+        - {x: 4.65802, y: 57.25415}
+        - {x: 8.65802, y: 54.25415}
+        - {x: 14.65802, y: 54.25415}
+        - {x: 17.65802, y: 57.25415}
+        - {x: 17.65802, y: 58.25415}
+    - name: georgewashington_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1905
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.192383, y: 53.099243}
+        - {x: -21.807617, y: 53.099243}
+        - {x: -54.807617, y: -30.900757}
+        - {x: -54.807617, y: -48.900757}
+        - {x: -50.807617, y: -52.900757}
+        - {x: 29.192383, y: -52.900757}
+        - {x: 55.192383, y: -0.90075684}
+        - {x: 55.192383, y: 40.099243}
+        - {x: 54.192383, y: 41.099243}
+    - name: georgewashington_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1764
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.373283, y: 19.882446}
+        - {x: -36.373283, y: -54.117554}
+        - {x: 36.626717, y: -54.117554}
+        - {x: 36.626717, y: 5.8824463}
+        - {x: 25.626717, y: 32.882446}
+        - {x: 8.626717, y: 55.882446}
+        - {x: -12.373283, y: 55.882446}
+        - {x: -23.373283, y: 51.882446}
+    - name: georgewashington_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1758
+        width: 69
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.794655, y: 54.192383}
+        - {x: 15.794655, y: 57.192383}
+        - {x: -23.205345, y: 57.192383}
+        - {x: -27.205345, y: 37.192383}
+        - {x: -27.205345, y: -56.807617}
+        - {x: -10.205345, y: -54.807617}
+        - {x: -6.205345, y: -56.807617}
+        - {x: 21.794655, y: -56.807617}
+        - {x: 23.794655, y: -47.807617}
+        - {x: 27.794655, y: -16.807617}
+        - {x: 27.794655, y: 34.192383}
+    - name: georgewashington_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1758
+        width: 69
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.325958, y: 56.192383}
+        - {x: -27.325958, y: 54.192383}
+        - {x: -27.325958, y: -35.807617}
+        - {x: -11.325958, y: -55.807617}
+        - {x: 25.674042, y: -55.807617}
+        - {x: 27.674042, y: -48.807617}
+        - {x: 27.674042, y: 54.192383}
+        - {x: 25.674042, y: 56.192383}
+    - name: georgewashington_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1758
+        width: 106
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.27176, y: -59.307617}
+        - {x: 32.27176, y: -21.307617}
+        - {x: 42.27176, y: 12.692383}
+        - {x: 42.27176, y: 49.692383}
+        - {x: 3.271759, y: 59.692383}
+        - {x: -34.72824, y: 59.692383}
+        - {x: -41.72824, y: 56.692383}
+        - {x: -41.72824, y: 5.692383}
+        - {x: -33.72824, y: 4.692383}
+        - {x: -23.728241, y: -59.307617}
+    - name: georgewashington_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1763
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.948853, y: 55.100708}
+        - {x: -34.948853, y: 52.100708}
+        - {x: -34.948853, y: -54.899292}
+        - {x: 36.051147, y: -54.899292}
+        - {x: 36.051147, y: -15.899292}
+        - {x: 32.051147, y: 4.100708}
+        - {x: 22.051147, y: 36.100708}
+        - {x: 7.0511475, y: 55.100708}
+    - name: georgewashington_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1616
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.246567, y: 21.193848}
+        - {x: -35.246567, y: -14.806152}
+        - {x: -35.246567, y: -54.806152}
+        - {x: 35.753433, y: -54.806152}
+        - {x: 35.753433, y: -31.806152}
+        - {x: 17.753433, y: 55.193848}
+        - {x: -18.246567, y: 55.193848}
+        - {x: -19.246567, y: 54.193848}
+    - name: georgewashington_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1615
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.139694, y: 54.91223}
+        - {x: -13.860306, y: 54.91223}
+        - {x: -27.860306, y: 24.912231}
+        - {x: -34.860306, y: -16.087769}
+        - {x: -34.860306, y: -54.08777}
+        - {x: 36.139694, y: -54.08777}
+        - {x: 36.139694, y: -32.08777}
+        - {x: 22.139694, y: 34.91223}
+    - name: georgewashington_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1614
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.244278, y: -52.369507}
+        - {x: 31.244278, y: -48.369507}
+        - {x: 44.244278, y: -16.369507}
+        - {x: 44.244278, y: 55.630493}
+        - {x: 42.244278, y: 56.630493}
+        - {x: -29.755722, y: 56.630493}
+        - {x: -43.755722, y: 18.630493}
+        - {x: -43.755722, y: -55.369507}
+        - {x: -28.755722, y: -55.369507}
+        - {x: -16.755722, y: -31.369507}
+        - {x: 12.244278, y: -54.369507}
+        - {x: 30.244278, y: -55.369507}
+    - name: georgewashington_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1610
+        width: 91
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.29924, y: 57.003784}
+        - {x: -35.29924, y: 51.003784}
+        - {x: -35.29924, y: -26.996216}
+        - {x: -22.29924, y: -55.996216}
+        - {x: 15.70076, y: -55.996216}
+        - {x: 31.70076, y: -43.996216}
+        - {x: 36.70076, y: -18.996216}
+        - {x: 36.70076, y: 47.003784}
+        - {x: 7.70076, y: 57.003784}
+    - name: georgewashington_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1602
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.97635, y: 59.750366}
+        - {x: -43.97635, y: 39.750366}
+        - {x: -43.97635, y: 20.750366}
+        - {x: -38.97635, y: 13.750366}
+        - {x: -23.976349, y: -59.249634}
+        - {x: 0.023651123, y: -59.249634}
+        - {x: 30.023651, y: -17.249634}
+        - {x: 45.02365, y: 4.750366}
+        - {x: 45.02365, y: 35.750366}
+        - {x: 25.023651, y: 59.750366}
+    - name: georgewashington_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1437
+        width: 109
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.528244, y: 68.273315}
+        - {x: -42.528244, y: 47.273315}
+        - {x: -42.528244, y: -49.726685}
+        - {x: -31.528244, y: -67.726685}
+        - {x: -8.528244, y: -67.726685}
+        - {x: 43.471756, y: -4.7266846}
+        - {x: 43.471756, y: 64.273315}
+        - {x: 36.471756, y: 68.273315}
+      - - {x: 29.471756, y: -67.726685}
+        - {x: 28.471756, y: -64.726685}
+        - {x: 17.471756, y: -64.726685}
+        - {x: 16.471756, y: -67.726685}
+    - name: georgewashington_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1456
+        width: 136
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.226715, y: 58.125244}
+        - {x: -53.226715, y: -57.874756}
+        - {x: -13.226715, y: -57.874756}
+        - {x: 53.773285, y: -22.874756}
+        - {x: 53.773285, y: 31.125244}
+        - {x: -5.226715, y: 58.125244}
+    - name: georgewashington_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1460
+        width: 115
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.335114, y: 1.7519531}
+        - {x: 31.335114, y: 5.751953}
+        - {x: 33.335114, y: 14.751953}
+        - {x: -9.664886, y: 56.751953}
+        - {x: -33.664886, y: 56.751953}
+        - {x: -44.664886, y: 46.751953}
+        - {x: -44.664886, y: -56.248047}
+        - {x: 1.3351135, y: -56.248047}
+        - {x: 12.335114, y: -54.248047}
+        - {x: 46.335114, y: -43.248047}
+        - {x: 46.335114, y: -14.248047}
+        - {x: 18.335114, y: 1.7519531}
+    - name: georgewashington_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1467
+        width: 108
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.299988, y: 53.223633}
+        - {x: -35.299988, y: 32.223633}
+        - {x: -42.299988, y: -25.776367}
+        - {x: -42.299988, y: -51.776367}
+        - {x: 42.700012, y: -51.776367}
+        - {x: 42.700012, y: 47.223633}
+        - {x: 36.700012, y: 53.223633}
+    - name: georgewashington_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1314
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.9015274, y: 49.12671}
+        - {x: -41.901527, y: 35.12671}
+        - {x: -58.901527, y: -28.873291}
+        - {x: -58.901527, y: -48.87329}
+        - {x: 60.098473, y: -48.87329}
+        - {x: 60.098473, y: 44.12671}
+        - {x: 36.098473, y: 49.12671}
+      - - {x: -46.901527, y: 49.12671}
+        - {x: -45.901527, y: 46.12671}
+        - {x: -37.901527, y: 46.12671}
+        - {x: -35.901527, y: 48.12671}
+        - {x: -35.901527, y: 49.12671}
+    - name: georgewashington_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1318
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.258774, y: -45.246582}
+        - {x: 35.258774, y: -45.246582}
+        - {x: 35.258774, y: 26.753418}
+        - {x: 34.258774, y: 38.753418}
+        - {x: 21.258774, y: 45.753418}
+        - {x: -10.741226, y: 45.753418}
+        - {x: -33.741226, y: 32.753418}
+        - {x: -33.741226, y: -45.246582}
+        - {x: -11.741226, y: -45.246582}
+        - {x: -0.7412262, y: -38.246582}
+        - {x: 6.258774, y: -33.246582}
+        - {x: 11.258774, y: -44.246582}
+    - name: georgewashington_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1332
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.236649, y: 4.1968994}
+        - {x: 19.236649, y: 2.1968994}
+        - {x: 37.23665, y: -10.803101}
+        - {x: 46.23665, y: -7.8031006}
+        - {x: 46.23665, y: 2.1968994}
+        - {x: 13.236649, y: 40.1969}
+        - {x: -15.763351, y: 40.1969}
+        - {x: -45.76335, y: 23.1969}
+        - {x: -45.76335, y: -39.8031}
+        - {x: 24.236649, y: -39.8031}
+        - {x: 24.236649, y: -32.8031}
+        - {x: 17.236649, y: -0.8031006}
+        - {x: 15.236649, y: 2.1968994}
+    - name: georgewashington_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1334
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.64505, y: 40.260254}
+        - {x: -35.64505, y: 0.2602539}
+        - {x: -35.64505, y: -38.739746}
+        - {x: 37.35495, y: -38.739746}
+        - {x: 37.35495, y: 27.260254}
+        - {x: 29.35495, y: 40.260254}
+    - name: georgewashington_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1358
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.25879, y: 32.52063}
+        - {x: -35.25879, y: 29.52063}
+        - {x: -35.25879, y: -31.47937}
+        - {x: -30.25879, y: -31.47937}
+        - {x: -19.25879, y: -30.47937}
+        - {x: -17.25879, y: -27.47937}
+        - {x: -16.25879, y: -11.47937}
+        - {x: -15.258789, y: -4.47937}
+        - {x: -16.25879, y: -11.47937}
+        - {x: -16.25879, y: -18.47937}
+        - {x: -17.25879, y: -30.47937}
+        - {x: -13.258789, y: -31.47937}
+        - {x: 35.74121, y: -31.47937}
+        - {x: 35.74121, y: 13.52063}
+        - {x: 16.74121, y: 32.52063}
+    - name: georgewashington_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1225
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.8450375, y: 33.05725}
+        - {x: -27.154963, y: 33.05725}
+        - {x: -29.154963, y: 28.057251}
+        - {x: -29.154963, y: -15.942749}
+        - {x: -25.154963, y: -31.942749}
+        - {x: -6.1549625, y: -31.942749}
+        - {x: -4.1549625, y: -24.942749}
+        - {x: -0.15496254, y: -31.942749}
+        - {x: 22.845037, y: -31.942749}
+        - {x: 26.845037, y: -30.942749}
+        - {x: 29.845037, y: -28.942749}
+        - {x: 29.845037, y: 20.057251}
+        - {x: 24.845037, y: 31.057251}
+    - name: georgewashington_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1236
+        width: 160
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.78779, y: -4.8442993}
+        - {x: 63.78779, y: 12.155701}
+        - {x: 62.78779, y: 12.155701}
+        - {x: -14.212212, y: 31.1557}
+        - {x: -54.21221, y: 31.1557}
+        - {x: -56.21221, y: 22.1557}
+        - {x: -62.21221, y: -16.8443}
+        - {x: -62.21221, y: -30.8443}
+        - {x: -49.21221, y: -30.8443}
+        - {x: -47.21221, y: -29.8443}
+        - {x: -43.21221, y: -30.8443}
+        - {x: 3.7877884, y: -30.8443}
+    - name: georgewashington_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1216
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.735107, y: 39.522156}
+        - {x: -40.735107, y: 18.522156}
+        - {x: -40.735107, y: -38.477844}
+        - {x: 34.264893, y: -38.477844}
+        - {x: 42.264893, y: -25.477844}
+        - {x: 42.264893, y: 22.522156}
+        - {x: 27.264893, y: 39.522156}
+    - name: georgewashington_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1210
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.312988, y: 44.832092}
+        - {x: -37.68701, y: 44.832092}
+        - {x: -37.68701, y: -43.167908}
+        - {x: 36.31299, y: -43.167908}
+        - {x: 38.31299, y: -20.167908}
+        - {x: 38.31299, y: 12.832092}
+        - {x: 37.31299, y: 14.832092}
+    - name: georgewashington_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1219
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.825958, y: 16.367188}
+        - {x: 17.825958, y: 16.367188}
+        - {x: 23.825958, y: 17.367188}
+        - {x: 28.825958, y: 22.367188}
+        - {x: 29.825958, y: 28.367188}
+        - {x: 16.825958, y: 44.367188}
+        - {x: -6.1740417, y: 44.367188}
+        - {x: -22.174042, y: 41.367188}
+        - {x: -33.17404, y: 6.3671875}
+        - {x: -33.17404, y: -42.632812}
+        - {x: 34.82596, y: -42.632812}
+        - {x: 34.82596, y: 20.367188}
+        - {x: 25.825958, y: 18.367188}
+    - name: georgewashington_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1114
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.746567, y: 44.290833}
+        - {x: -41.746567, y: 4.2908325}
+        - {x: -41.746567, y: -42.709167}
+        - {x: 42.253433, y: -42.709167}
+        - {x: 42.253433, y: 44.290833}
+    - name: georgewashington_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1112
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.583206, y: 42.227478}
+        - {x: -3.4167938, y: 42.227478}
+        - {x: -32.416794, y: -1.772522}
+        - {x: -32.416794, y: -41.772522}
+        - {x: 33.583206, y: -41.772522}
+        - {x: 33.583206, y: 40.227478}
+    - name: georgewashington_52
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1089
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.81221, y: 49.24884}
+        - {x: -11.81221, y: 48.24884}
+        - {x: -23.81221, y: 32.24884}
+        - {x: -29.81221, y: 25.24884}
+        - {x: -29.81221, y: -46.75116}
+        - {x: -27.81221, y: -48.75116}
+        - {x: 2.18779, y: -48.75116}
+        - {x: 30.18779, y: -29.75116}
+        - {x: 30.18779, y: 29.24884}
+        - {x: 14.18779, y: 49.24884}
+    - name: georgewashington_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1093
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.242752, y: 44.87555}
+        - {x: -42.242752, y: -44.12445}
+        - {x: 28.757248, y: -44.12445}
+        - {x: 43.757248, y: -27.12445}
+        - {x: 43.757248, y: 19.87555}
+        - {x: 24.757248, y: 44.87555}
+    - name: georgewashington_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1066
+        width: 71
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.213745, y: 54.270203}
+        - {x: -27.786255, y: 54.270203}
+        - {x: -27.786255, y: -25.729797}
+        - {x: -5.786255, y: -53.729797}
+        - {x: 5.213745, y: -53.729797}
+        - {x: 28.213745, y: -36.729797}
+        - {x: 28.213745, y: 22.270203}
+        - {x: 27.213745, y: 25.270203}
+    - name: georgewashington_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 951
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.84504, y: 57.877075}
+        - {x: 38.84504, y: 58.877075}
+        - {x: -40.15496, y: 58.877075}
+        - {x: -40.15496, y: -32.122925}
+        - {x: -17.15496, y: -58.122925}
+        - {x: 12.845039, y: -58.122925}
+        - {x: 15.845039, y: -28.122925}
+        - {x: 40.84504, y: 22.877075}
+        - {x: 40.84504, y: 54.877075}
+    - name: georgewashington_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 946
+        width: 105
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.73359, y: 56.96869}
+        - {x: -40.73359, y: -4.031311}
+        - {x: -40.73359, y: -56.03131}
+        - {x: 27.26641, y: -56.03131}
+        - {x: 42.26641, y: 5.968689}
+        - {x: 42.26641, y: 42.96869}
+        - {x: 22.26641, y: 56.96869}
+    - name: georgewashington_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 938
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.18779, y: 7.715271}
+        - {x: 38.18779, y: 16.715271}
+        - {x: 38.18779, y: 25.715271}
+        - {x: 36.18779, y: 30.715271}
+        - {x: 29.18779, y: 29.715271}
+        - {x: 30.18779, y: 45.71527}
+        - {x: 30.18779, y: 55.71527}
+        - {x: -7.81221, y: 55.71527}
+        - {x: -18.81221, y: 49.71527}
+        - {x: -37.81221, y: -6.284729}
+        - {x: -37.81221, y: -49.28473}
+        - {x: -34.81221, y: -52.28473}
+        - {x: -29.81221, y: -55.28473}
+        - {x: 11.18779, y: -55.28473}
+        - {x: 8.18779, y: -16.284729}
+        - {x: 4.18779, y: -8.284729}
+        - {x: 21.18779, y: 1.715271}
+    - name: georgewashington_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 915
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.36261, y: 64.73663}
+        - {x: -10.63739, y: 64.73663}
+        - {x: -23.63739, y: 49.736633}
+        - {x: -23.63739, y: -64.26337}
+        - {x: 20.36261, y: -64.26337}
+        - {x: 22.36261, y: -54.263367}
+        - {x: 25.36261, y: -44.263367}
+        - {x: 25.36261, y: 54.736633}
+    - name: georgewashington_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 910
+        width: 103
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.19464, y: 58.328247}
+        - {x: -39.19464, y: 49.328247}
+        - {x: -40.19464, y: 42.328247}
+        - {x: -40.19464, y: -57.671753}
+        - {x: 38.80536, y: -57.671753}
+        - {x: 40.80536, y: -55.671753}
+        - {x: 40.80536, y: -31.671753}
+        - {x: -4.194641, y: 58.328247}
+    - name: georgewashington_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 809
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.866413, y: 48.3786}
+        - {x: -31.866413, y: 45.3786}
+        - {x: -43.866413, y: 26.378601}
+        - {x: -43.866413, y: 3.378601}
+        - {x: -34.866413, y: -1.6213989}
+        - {x: -15.866413, y: 2.378601}
+        - {x: -13.866413, y: 4.378601}
+        - {x: -17.866413, y: 0.37860107}
+        - {x: -23.866413, y: -1.6213989}
+        - {x: -29.866413, y: -5.621399}
+        - {x: -28.866413, y: -18.621399}
+        - {x: -34.866413, y: -46.6214}
+        - {x: -32.866413, y: -47.6214}
+        - {x: -11.866413, y: -47.6214}
+        - {x: -10.866413, y: -44.6214}
+        - {x: 12.133587, y: -47.6214}
+        - {x: 41.133587, y: -47.6214}
+        - {x: 45.133587, y: -45.6214}
+        - {x: 45.133587, y: -20.621399}
+        - {x: 3.133587, y: 48.3786}
+    - name: georgewashington_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 799
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.3717575, y: 39.56183}
+        - {x: -13.6282425, y: 29.561829}
+        - {x: -35.628242, y: -17.438171}
+        - {x: -35.628242, y: -38.43817}
+        - {x: 37.371758, y: -38.43817}
+        - {x: 37.371758, y: 14.561829}
+        - {x: 28.371758, y: 39.56183}
+    - name: georgewashington_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 781
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8213806, y: 51.991577}
+        - {x: -34.17862, y: 32.991577}
+        - {x: -37.17862, y: -5.008423}
+        - {x: -37.17862, y: -51.008423}
+        - {x: 38.82138, y: -51.008423}
+        - {x: 38.82138, y: 51.991577}
+    - name: georgewashington_63
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 778
+        width: 139
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5389404, y: 50.146545}
+        - {x: -38.53894, y: 34.146545}
+        - {x: -54.53894, y: -21.853455}
+        - {x: -54.53894, y: -49.853455}
+        - {x: 46.46106, y: -49.853455}
+        - {x: 55.46106, y: -42.853455}
+        - {x: 55.46106, y: 13.146545}
+        - {x: 20.46106, y: 50.146545}
+    - name: georgewashington_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 654
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.22519, y: 48.718323}
+        - {x: 17.22519, y: 54.718323}
+        - {x: 10.225189, y: 56.718323}
+        - {x: -16.77481, y: 56.718323}
+        - {x: -34.77481, y: 43.718323}
+        - {x: -34.77481, y: -56.281677}
+        - {x: 36.22519, y: -56.281677}
+        - {x: 36.22519, y: 55.718323}
+        - {x: 25.22519, y: 54.718323}
+    - name: georgewashington_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 634
+        width: 144
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.416794, y: 56.084747}
+        - {x: -51.416794, y: 54.084747}
+        - {x: -56.416794, y: 40.084747}
+        - {x: -56.416794, y: 1.0847473}
+        - {x: -47.416794, y: -5.9152527}
+        - {x: -27.416794, y: -54.915253}
+        - {x: 8.583206, y: -54.915253}
+        - {x: 57.583206, y: 46.084747}
+        - {x: 57.583206, y: 56.084747}
+    - name: georgewashington_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 633
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.18016, y: 33.30307}
+        - {x: 9.1801605, y: 33.30307}
+        - {x: 8.1801605, y: 32.30307}
+        - {x: 4.1801605, y: 32.30307}
+        - {x: -1.8198395, y: 29.30307}
+        - {x: 0.18016052, y: 32.30307}
+        - {x: 6.1801605, y: 32.30307}
+        - {x: 16.18016, y: 38.30307}
+        - {x: 12.1801605, y: 49.30307}
+        - {x: -0.8198395, y: 53.30307}
+        - {x: -44.81984, y: 53.30307}
+        - {x: -49.81984, y: 50.30307}
+        - {x: -49.81984, y: 5.30307}
+        - {x: -39.81984, y: -2.69693}
+        - {x: -29.81984, y: -1.6969299}
+        - {x: -25.81984, y: 4.30307}
+        - {x: -25.81984, y: 9.30307}
+        - {x: -27.81984, y: 11.30307}
+        - {x: -32.81984, y: 11.30307}
+        - {x: -25.81984, y: 11.30307}
+        - {x: -25.81984, y: 9.30307}
+        - {x: -21.81984, y: -44.69693}
+        - {x: -18.81984, y: -51.69693}
+        - {x: 4.1801605, y: -51.69693}
+        - {x: 17.18016, y: -36.69693}
+        - {x: 50.18016, y: 11.30307}
+        - {x: 50.18016, y: 31.30307}
+    - name: georgewashington_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 625
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1381531, y: 54.54962}
+        - {x: -29.138153, y: 54.54962}
+        - {x: -43.138153, y: 26.549622}
+        - {x: -43.138153, y: -0.45037842}
+        - {x: -9.138153, y: -53.45038}
+        - {x: 34.861847, y: -53.45038}
+        - {x: 43.861847, y: -41.45038}
+        - {x: 43.861847, y: 12.549622}
+        - {x: 25.861847, y: 33.54962}
+    - name: georgewashington_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 503
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.7534332, y: 44.684723}
+        - {x: -15.246567, y: 54.684723}
+        - {x: -49.246567, y: 54.684723}
+        - {x: -54.246567, y: 52.684723}
+        - {x: -54.246567, y: -48.315277}
+        - {x: -35.246567, y: -54.315277}
+        - {x: 31.753433, y: -54.315277}
+        - {x: 54.753433, y: -33.315277}
+        - {x: 54.753433, y: -22.315277}
+        - {x: 44.753433, y: -11.315277}
+    - name: georgewashington_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 480
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.49466, y: 59.706116}
+        - {x: -27.49466, y: -56.293884}
+        - {x: -25.49466, y: -59.293884}
+        - {x: 23.50534, y: -59.293884}
+        - {x: 28.50534, y: -58.293884}
+        - {x: 28.50534, y: 28.706116}
+        - {x: 0.5053406, y: 59.706116}
+    - name: georgewashington_70
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 480
+        width: 59
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.805344, y: 59.706116}
+        - {x: -16.805344, y: 58.706116}
+        - {x: -22.805344, y: 55.706116}
+        - {x: -22.805344, y: -48.293884}
+        - {x: -19.805344, y: -59.293884}
+        - {x: 24.194656, y: -59.293884}
+        - {x: 24.194656, y: 31.706116}
+        - {x: 5.1946564, y: 59.706116}
+    - name: georgewashington_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 471
+        width: 57
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.27786255, y: -59.32901}
+        - {x: 8.722137, y: -61.32901}
+        - {x: 23.722137, y: -61.32901}
+        - {x: 23.722137, y: 61.67099}
+        - {x: -22.277863, y: 61.67099}
+        - {x: -22.277863, y: -61.32901}
+        - {x: -3.2778625, y: -61.32901}
+        - {x: -2.2778625, y: -60.32901}
+        - {x: -2.2778625, y: -56.32901}
+        - {x: -2.2778625, y: -57.32901}
+    - name: georgewashington_72
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 473
+        width: 57
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4053345, y: -58.765656}
+        - {x: 17.594666, y: -59.765656}
+        - {x: 18.594666, y: -57.765656}
+        - {x: 18.594666, y: -53.765656}
+        - {x: 22.594666, y: 1.2343445}
+        - {x: 22.594666, y: 30.234344}
+        - {x: 13.594666, y: 40.234344}
+        - {x: 8.594666, y: 42.234344}
+        - {x: 12.594666, y: 52.234344}
+        - {x: 5.5946655, y: 63.234344}
+        - {x: -11.405334, y: 63.234344}
+        - {x: -21.405334, y: 55.234344}
+        - {x: -22.405334, y: 44.234344}
+        - {x: -22.405334, y: -57.765656}
+        - {x: -19.405334, y: -61.765656}
+        - {x: -2.4053345, y: -61.765656}
+        - {x: -3.4053345, y: -59.765656}
+        - {x: -3.4053345, y: -55.765656}
+        - {x: -2.4053345, y: -57.765656}
+    - name: georgewashington_73
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 464
+        width: 66
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.0939026, y: 61.19925}
+        - {x: -13.906097, y: 61.19925}
+        - {x: -25.906097, y: 42.19925}
+        - {x: -25.906097, y: -59.80075}
+        - {x: 27.093903, y: -59.80075}
+        - {x: 27.093903, y: 35.19925}
+        - {x: 15.093903, y: 58.19925}
+    - name: georgewashington_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 466
+        width: 68
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.219849, y: 46.762604}
+        - {x: 9.219849, y: 60.762604}
+        - {x: -26.780151, y: 60.762604}
+        - {x: -26.780151, y: -57.237396}
+        - {x: -25.780151, y: -60.237396}
+        - {x: 27.219849, y: -60.237396}
+    - name: georgewashington_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 346
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.619846, y: 61.96106}
+        - {x: -24.619846, y: 57.96106}
+        - {x: -28.619846, y: 37.96106}
+        - {x: -28.619846, y: 14.96106}
+        - {x: -27.619846, y: 12.96106}
+        - {x: -20.619846, y: 14.96106}
+        - {x: -27.619846, y: -60.03894}
+        - {x: -22.619846, y: -61.03894}
+        - {x: -7.6198463, y: -61.03894}
+        - {x: -6.6198463, y: -60.03894}
+        - {x: -2.6198463, y: -52.03894}
+        - {x: 11.380154, y: -61.03894}
+        - {x: 29.380154, y: -61.03894}
+        - {x: 29.380154, y: 45.96106}
+        - {x: 18.380154, y: 61.96106}
+    - name: georgewashington_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 331
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.36717224, y: -17.76413}
+        - {x: 9.632828, y: -54.76413}
+        - {x: 14.632828, y: -57.76413}
+        - {x: 30.632828, y: -57.76413}
+        - {x: 30.632828, y: 59.23587}
+        - {x: -9.367172, y: 59.23587}
+        - {x: -13.367172, y: 47.23587}
+        - {x: -13.367172, y: 45.23587}
+        - {x: -13.367172, y: 46.23587}
+        - {x: -15.367172, y: 48.23587}
+        - {x: -24.367172, y: 49.23587}
+        - {x: -30.367172, y: 46.23587}
+        - {x: -30.367172, y: -57.76413}
+        - {x: -19.367172, y: -57.76413}
+        - {x: -16.367172, y: -54.76413}
+        - {x: -3.3671722, y: -28.76413}
+        - {x: -2.3671722, y: -25.76413}
+    - name: georgewashington_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 332
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.265656, y: -57.482452}
+        - {x: 30.265656, y: 58.517548}
+        - {x: -23.734344, y: 58.517548}
+        - {x: -29.734344, y: 48.517548}
+        - {x: -29.734344, y: -57.482452}
+        - {x: -17.734344, y: -57.482452}
+        - {x: -11.7343445, y: -46.482452}
+        - {x: 6.2656555, y: -56.482452}
+        - {x: 11.2656555, y: -57.482452}
+    - name: georgewashington_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 313
+        width: 67
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.19313, y: 60.66565}
+        - {x: -26.19313, y: 56.66565}
+        - {x: -26.19313, y: -59.33435}
+        - {x: 26.80687, y: -59.33435}
+        - {x: 26.80687, y: 60.66565}
+    - name: georgewashington_79
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 311
+        width: 67
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7778625, y: -29.397705}
+        - {x: 7.7778625, y: -51.397705}
+        - {x: 15.777863, y: -60.397705}
+        - {x: 26.777863, y: -60.397705}
+        - {x: 26.777863, y: 39.602295}
+        - {x: 14.777863, y: 60.602295}
+        - {x: -5.2221375, y: 60.602295}
+        - {x: -13.222137, y: 50.602295}
+        - {x: -24.222137, y: 34.602295}
+        - {x: -26.222137, y: 27.602295}
+        - {x: -26.222137, y: -46.397705}
+        - {x: -25.222137, y: -60.397705}
+        - {x: -5.2221375, y: -60.397705}
+        - {x: -3.2221375, y: -51.397705}
+        - {x: 0.77786255, y: -20.397705}
+        - {x: 0.77786255, y: -16.397705}
+    - name: georgewashington_80
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 308
+        width: 67
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.377869, y: 61.257248}
+        - {x: -26.377869, y: 51.257248}
+        - {x: -26.377869, y: -54.742752}
+        - {x: -25.377869, y: -57.742752}
+        - {x: -23.377869, y: -59.742752}
+        - {x: -12.377869, y: -59.742752}
+        - {x: -6.3778687, y: -58.742752}
+        - {x: -5.3778687, y: -55.742752}
+        - {x: 7.6221313, y: -59.742752}
+        - {x: 26.622131, y: -59.742752}
+        - {x: 26.622131, y: 56.257248}
+        - {x: 25.622131, y: 61.257248}
+    - name: georgewashington_81
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 309
+        width: 63
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.90686, y: 60.538925}
+        - {x: -24.90686, y: 52.538925}
+        - {x: -24.90686, y: -59.461075}
+        - {x: 25.09314, y: -59.461075}
+        - {x: 25.09314, y: 44.538925}
+        - {x: 15.09314, y: 60.538925}
+    - name: georgewashington_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 182
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.274048, y: -53.734344}
+        - {x: 47.274048, y: -53.734344}
+        - {x: 64.27405, y: -4.7343445}
+        - {x: 64.27405, y: 44.265656}
+        - {x: 29.274048, y: 54.265656}
+        - {x: -32.725952, y: 54.265656}
+        - {x: -62.725952, y: 37.265656}
+        - {x: -62.725952, y: -51.734344}
+        - {x: -61.725952, y: -53.734344}
+        - {x: -50.725952, y: -53.734344}
+        - {x: -27.725952, y: -30.734344}
+        - {x: 2.2740479, y: -52.734344}
+    - name: georgewashington_83
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 153
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.784729, y: 60.596947}
+        - {x: -26.784729, y: 30.596947}
+        - {x: -26.784729, y: -50.403053}
+        - {x: -23.784729, y: -59.403053}
+        - {x: -6.784729, y: -59.403053}
+        - {x: -2.784729, y: -50.403053}
+        - {x: 15.215271, y: -59.403053}
+        - {x: 27.215271, y: -59.403053}
+        - {x: 27.215271, y: 52.596947}
+        - {x: 14.215271, y: 60.596947}
+    - name: georgewashington_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.90457, y: -41.776337}
+        - {x: 16.904572, y: 52.223663}
+        - {x: 6.9045715, y: 56.223663}
+        - {x: -13.095428, y: 56.223663}
+        - {x: -19.095428, y: 45.223663}
+        - {x: -26.095428, y: 23.223663}
+        - {x: -35.09543, y: -27.776337}
+        - {x: -35.09543, y: -54.776337}
+        - {x: -20.095428, y: -54.776337}
+        - {x: -17.095428, y: -52.776337}
+        - {x: 35.90457, y: -54.776337}
+    - name: georgewashington_85
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 155
+        width: 124
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.227478, y: -55.83969}
+        - {x: 27.227478, y: -55.83969}
+        - {x: 49.227478, y: -4.839691}
+        - {x: 49.227478, y: 56.16031}
+        - {x: -46.772522, y: 56.16031}
+        - {x: -48.772522, y: 41.16031}
+        - {x: -48.772522, y: -55.83969}
+        - {x: -33.772522, y: -55.83969}
+        - {x: -16.772522, y: -22.839691}
+        - {x: -13.772522, y: -15.839691}
+        - {x: 3.227478, y: -54.83969}
+    - name: georgewashington_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 63
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.838169, y: 61.316795}
+        - {x: -24.83817, y: 44.316795}
+        - {x: -24.83817, y: -58.683205}
+        - {x: -23.83817, y: -59.683205}
+        - {x: -8.838169, y: -59.683205}
+        - {x: -4.838169, y: -49.683205}
+        - {x: 5.161831, y: -59.683205}
+        - {x: 25.16183, y: -59.683205}
+        - {x: 25.16183, y: 48.316795}
+        - {x: 18.16183, y: 61.316795}
+    - name: georgewashington_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 63
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.76947, y: 60.971756}
+        - {x: -23.76947, y: 38.971756}
+        - {x: -24.76947, y: 27.971756}
+        - {x: -24.76947, y: -60.028244}
+        - {x: 25.23053, y: -60.028244}
+        - {x: 25.23053, y: 60.971756}
+    - name: georgewashington_88
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 22
+        width: 167
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.291595, y: 49.196945}
+        - {x: -40.291595, y: 33.196945}
+        - {x: -65.291595, y: -16.803055}
+        - {x: -65.291595, y: -48.803055}
+        - {x: 57.708405, y: -48.803055}
+        - {x: 66.708405, y: -15.803055}
+        - {x: 66.708405, y: 49.196945}
+    - name: georgewashington_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2179
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.28168, y: 54.27942}
+        - {x: 32.28168, y: 55.27942}
+        - {x: -20.718319, y: 55.27942}
+        - {x: -26.718319, y: 10.279419}
+        - {x: -26.718319, y: -54.72058}
+        - {x: -10.718319, y: -54.72058}
+        - {x: -1.7183189, y: -29.720581}
+        - {x: 14.281681, y: -54.72058}
+        - {x: 35.28168, y: -54.72058}
+    - name: georgewashington_90
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1758
+        width: 91
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.961823, y: 56.192383}
+        - {x: -30.961823, y: 14.192383}
+        - {x: -30.961823, y: -55.807617}
+        - {x: 33.038177, y: -55.807617}
+        - {x: 33.038177, y: 33.192383}
+        - {x: 6.0381775, y: 56.192383}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
